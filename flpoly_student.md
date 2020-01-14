@@ -1,23 +1,23 @@
-## First Name Last Name
+## Lucille Bridges
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Data Warehousing
 
-- Course 2
+- Time Series Modeling and Forecasting
 
-- Course 3
+- Operations Research
 
-- Course 4
+- Data Analytics Capstone II
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Pups
 
-- Thing 2
+- Memes
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- FL POLY? as shown in this website <https://www.floridapoly.edu>
